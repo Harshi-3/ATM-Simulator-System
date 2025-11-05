@@ -1,4 +1,3 @@
-![ATM-Program-in-Java](https://github.com/shivamverma26/ATM_Simulator/assets/94590743/ac5ea495-7a9f-43f3-b820-5fe099752302)
 
 <html>
 <head>
@@ -73,11 +72,6 @@
   <li>Access various account-related functionalities, such as transactions and balance inquiries.</li>
 </ol>
 
-## Screenshots
-
-![login](https://github.com/shivamverma26/ATM_Simulator/assets/94590743/5a55fabf-422b-4529-b67f-6381024294b5)
-![signup1](https://github.com/shivamverma26/ATM_Simulator/assets/94590743/5aa34aec-4ff1-41a5-99d6-d54cdfd32265)
-![transaction](https://github.com/shivamverma26/ATM_Simulator/assets/94590743/4cb12f21-36c0-4c81-a8b9-70034c15c9df)
 
 
 
